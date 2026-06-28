@@ -119,4 +119,4 @@ twórców VR/AR,
 terapeutów sensorycznych.
 
 🔹 Licencja
-Open model — do dowolnego wykorzystania i rozbudowy.
+MiT
